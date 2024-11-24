@@ -10,7 +10,7 @@ Passionate about technology and problem solving challenges I'm a Brazilian Scien
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ivictoruan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ivictoruan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ivictoruan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ivictoruan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ivictoruan&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
