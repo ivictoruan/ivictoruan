@@ -1,6 +1,5 @@
 # 💫 About Me:
-Passionate about technology and problem solving challenges I'm a Brazilian Science and Technology student from Federal University of Maranhão.
-
+Software developer with experience in mobile development with Flutter and Dart. Specialist in creating efficient and scalable solutions, with a strong emphasis on clean architecture, testable code and agile practices. Experience in integrating RESTful APIs, optimizing performance and using geolocation. Collaborative in multidisciplinary teams and committed to the continuous improvement of products and processes.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/invictoruan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivictoruan) 
